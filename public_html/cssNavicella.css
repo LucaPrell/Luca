@@ -1,0 +1,25 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20-feb-2019, 9.06.35
+    Author     : tss
+*/
+
+#navicella {
+    position: absolute;
+    height: 40px;
+    text-align: center; 
+
+}
+
+.nemici {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    
+
+}
+
